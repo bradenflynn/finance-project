@@ -1,0 +1,68 @@
+# Project Sovereign: Nvidia Strategic Expansion Analysis 🚀
+
+### 📊 Quick Summary (The 60-Second Skim)
+**The Problem:** With $62B in cash, should Nvidia spend $700M to hire 2,000 elite AI engineers for its "Sovereign AI" software division?
+**The Goal:** Build a decision-tool to find the "Revenue Break-Even" point for this investment.
+**The Result:** I recommend a **GO** decision. The project only needs to generate **$1.0B in new sales** (a 1.7% increase in total revenue) to maintain Nvidia's record-high 62% operating margins.
+
+---
+
+## 1. Executive Investment Memo
+**To:** Nvidia CFO & Executive Leadership  
+**Subject:** Incremental R&D Expansion (Project Sovereign)  
+
+### Strategic Context
+As of early 2026, Nvidia is transitioning from a hardware provider to a full-stack "AI Factory" provider. While hardware demand (Blackwell/Rubin) remains high, the next frontier is **Sovereign AI**—helping nations build domestic, secure AI infrastructure. 
+
+### The Recommendation
+I propose a **$700M annualized investment** to hire 2,000 specialized engineers. This is a low-risk, high-reward "moat-building" play. Even if the project only achieves moderate success, Nvidia's profitability remains fundamentally unchanged.
+
+---
+
+## 2. Model Methodology (The "Finance Deep-Dive")
+To make this model "real," I used actual data from Nvidia’s **Q3 FY2026 10-Q filing** as the baseline.
+
+### Data Foundation
+* **Baseline Revenue:** $57.0 Billion (Q3 FY26)
+* **Non-GAAP Gross Margin:** 73.6%
+* **Current Operating Income:** $37.8 Billion
+* **Non-GAAP Operating Margin:** 62.2%
+
+### Operational Assumptions
+* **The "Fully Loaded" Hire:** I modeled a cost of **$350,000 per head**. This includes base salary, 25% benefits/overhead, and Stock-Based Compensation (SBC) to reflect Silicon Valley's competitive talent market.
+* **The Productivity Lag:** I assumed a **6-month onboarding lag**. We pay 100% of the salary today, but the team does not generate full revenue until two quarters later.
+
+---
+
+## 3. Scenario Analysis & Visuals
+
+### I. The Margin Impact
+The chart below shows the "Operating Margin Floor." Even with $700M in new costs, our margin stays above 60% across all realistic scenarios.
+
+![Margin Impact](margin_impact.png)
+
+### II. ROI: Cost vs. New Sales
+This visual highlights the "Break-Even" point. In the **Base Case**, we spend $0.7B to earn $1.0B. In the **Bull Case**, we generate $3.0B, creating massive shareholder value.
+
+![ROI Analysis](roi_analysis.png)
+
+---
+
+## 4. Strategic Verdict & Risks
+
+### The Verdict: APPROVE
+Nvidia's current efficiency is so high (**$2.1M profit per employee**) that this expansion is statistically safe. The "Break-Even" revenue requirement is less than **2%** of our quarterly run-rate. 
+
+### Risks to Watch
+1.  **Talent Scarcity:** If the cost-per-head rises to $450k, our break-even requirement increases by 30%.
+2.  **Execution Lag:** If sovereign contracts take 12+ months to sign (government bureaucracy), the "Margin Dip" will be deeper and longer than forecasted.
+
+---
+
+### 🛠️ Technical Implementation
+* **Excel:** Core financial model with 3-scenario toggle.
+* **Python:** Used to automate data visualization and stress-test the P&L impact.
+* **Data Source:** Nvidia Investor Relations (Q3 FY2026 Results).
+
+**Author:** [Your Name]  
+**Role:** Finance Analyst / Business Strategy
